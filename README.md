@@ -11,9 +11,6 @@
  >div<
  
 <div> 
-  <a href="
-  <a href="
- 	<a href="
- <a href="
+  <a href="https://mobile.twitter.com/ogawadcst"
  
 </div>
